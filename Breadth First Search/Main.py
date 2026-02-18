@@ -23,6 +23,4 @@ sample_graph = {
     'E': ['B', 'F'],
     'F': ['C', 'E']
 }
-
 bfs(sample_graph, 'A')
-
